@@ -48,7 +48,7 @@ const FormContact = () => {
                 <div>
                     <label className="block text-sm font-medium text-gray-700 mb-1">Mensaje</label>
                     <textarea
-                        rows="4"
+                        rows={4}
                         placeholder="Escribe tu mensaje..."
                         className="w-full border border-gray-300 rounded-lg px-3 py-2 focus:ring- focus:border-gray-700 focus:ring-gray-700 focus:outline-none resize-none"
                     ></textarea>
