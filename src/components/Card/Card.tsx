@@ -26,7 +26,7 @@ const Card = ({image, title,description,url}:CardProps) => {
                         <div>
                             <p className="primary-color">{description}</p>
                         </div>
-                        <Link href={url} className="link flex gap-2 text-[#a855f7]">
+                        <Link href={url} className="link flex gap-2 primary-color">
                             Ver mas <SquareArrowUpRight />
                             <span className="line"></span>
                         </Link>
