@@ -9,7 +9,7 @@ const Footer = () => {
                 <p>© 2025 Estiven Zapata Muñoz — Todos los derechos reservados</p>
                 <div className="flex gap-4">
                     <a
-                        href="https://github.com/tuusuario"
+                        href="https://github.com/EstivenZM"
                         target="_blank"
                         className="px-4 py-2 bg-[#424242] text-white rounded-lg hover:bg-[#BDBDBD] hover:text-[#424242] transition"
                     >
@@ -17,7 +17,7 @@ const Footer = () => {
                         
                     </a>
                     <a
-                        href="https://linkedin.com/in/tuusuario"
+                        href="https://www.linkedin.com/in/estiven-zapata-mu%C3%B1oz-33a366302/"
                         target="_blank"
                         className="px-4 py-2 bg-[#424242] text-white rounded-lg hover:bg-[#BDBDBD] hover:text-[#424242] transition"
                     >

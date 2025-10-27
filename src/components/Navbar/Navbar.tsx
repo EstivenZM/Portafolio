@@ -14,14 +14,14 @@ const Navbar = () => {
             <nav className={` bg-[#FFFAFA] flex p-4 items-center justify-center flex-wrap`}>
                 <div className="container-links flex gap-10 items-center">
                     <div className="aboutme-link link">
-                        <Link href="/dashboard" className="secondary-color ">Sobre mi</Link>
+                        <Link href="/aboutme" className="secondary-color ">Sobre mi</Link>
                         <span className="line"></span>
                     </div>
                     <div>
-                        <h1 className={`${style["link-center"]} primary-color`}>Portafolio</h1>
+                        <Link href="../"className={`${style["link-center"]} primary-color`}>Portafolio</Link>
                     </div>
                     <div className="projects-link link">
-                        <Link href="/projects" className="secondary-color">Proyectos</Link>
+                        <Link href="/contactme" className="secondary-color">Contactame</Link>
                         <span className="line"></span>
                     </div>
                 </div>
