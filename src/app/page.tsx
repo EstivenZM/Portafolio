@@ -24,7 +24,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="iam-container_image w-[400px] flex justify-center">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwr_zZjgvmu4BccwDNIHic8K5dyehw7cSYA&s" alt="" className="h-full object-container w-full" />
+                        {/* <img src="" alt="" className="h-full object-container w-full" /> */}
                     </div>
                 </div>
             </section>
